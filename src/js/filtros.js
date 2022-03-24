@@ -195,6 +195,7 @@ function navBar(event){
             || barraComp === 'CAMISAFLANELA'
             || barraComp === 'CAMISETAS'
             || barraComp === 'CAMISETA'
+            || barraComp === 'CAMISA'
         ){
 
             for(let i = 0; i < dataBase.length; i++){
